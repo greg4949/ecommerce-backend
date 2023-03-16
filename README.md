@@ -8,6 +8,10 @@ Command Line application to test api routes for e-commerce database
 
 The purpose of this project was to create api routes to perform RESTful CRUD operations for the back end of an e-commerce application
 
+## Link to Video Demo of Application
+
+https://drive.google.com/file/d/1fChG7VEgWS1UqT8aPx4rfM1cousxxe6A/view
+
 ## Installation
 
 N/A
